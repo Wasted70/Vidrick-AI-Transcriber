@@ -1,5 +1,6 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.5",
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest",
-  "release_notes": "Initial public release of Vidrick AI Transcriber 1.8.3."
+  "release_notes": "Describe the changes in this update.",
+  "sha256": "PASTE_INSTALLER_SHA256_HERE"
 }
