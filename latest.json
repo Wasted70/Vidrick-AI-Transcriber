@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.5.2",
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest",
-  "release_notes": "Describe the changes in this update.",
-  "sha256": "PASTE_INSTALLER_SHA256_HERE"
+  "release_notes": "Added a tinted Mica interface, improved window visibility, and retained one-click automatic updates.",
+  "sha256": "42ded50e44fbbf7f5d93a1cbb2a07f065c9b5b27f73d2e6d786733448b2903f1"
 }
