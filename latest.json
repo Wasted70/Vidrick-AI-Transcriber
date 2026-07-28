@@ -1,6 +1,6 @@
 {
-  "version": "1.8.5.5",
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_1.8.5.5_Production_Beta.exe",
-  "sha256": "34931055C29CD1C23C4ABCF9922866975FFC6389A8455E01650795FCB28D99F5",
-  "release_notes": "Blue glass UI refresh, redesigned splash screen, startup crash fix, and updater improvements."
+  "version": "1.8.5.6",
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_1.8.5.6_Production_Beta.exe",
+  "sha256": "E1AE96377FD7614E3ABA86179D12837CC2F32A536FEB046B4E03034261F3B9CF",
+  "release_notes": "Fixed live progress updates and added a more accurate audio-throughput-based ETA."
 }
