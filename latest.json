@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6.0",
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_1.8.6.0_Production_Beta.exe",
-  "sha256": "DC76D122247D2A39B824AD357932A74DE1471D4739A659BAC480FBD289BF2701",
-  "release_notes": "Improved experimental two-speaker turn labeling, structured meeting summaries, and action-item extraction with owners, deadlines, decisions, and open questions."
+  "version": "1.8.6.1",
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_1.8.6.1_Production_Beta.exe",
+  "sha256": "367559C30CD9DC3CD127FBB270FB0438F11E041CC4E55D3C276A42CD22C9DEDD",
+  "release_notes": "High Accuracy Speaker Diarization, optional one-time Speaker Engine installation, improved AI summaries, improved action items, better speaker detection, and stability improvements."
 }
