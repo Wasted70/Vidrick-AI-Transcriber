@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6.1",
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_1.8.6.1_Production_Beta.exe",
-  "sha256": "733110946A1820AB4685722732C41F368EC50E7C65F66B4117EDA806D43BAF48",
-  "release_notes": "High Accuracy Speaker Diarization, optional one-time Speaker Engine installation, improved AI summaries, improved action items, better speaker detection, and stability improvements."
+    "version": "2.0.0",
+    "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/latest/download/Vidrick_AI_Transcriber_Setup_2.0.0_Production_Beta.exe",
+    "sha256": "4DBDD3D27CCF7CA6333A3F5220E99683CFF61346383B49CE6721AD826A3F17B2",
+    "release_notes": "One-click Speaker Identification"
 }
