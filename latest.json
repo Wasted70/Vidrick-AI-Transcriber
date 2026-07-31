@@ -1,19 +1,14 @@
 {
-  "version": "2.2.0",
-  "version_name": "2.2.0 Stable",
+  "version": "2.2.1",
+  "version_name": "2.2.1 Update Test",
   "release_channel": "stable",
-  "minimum_updater_version": "1.8.5.0",
+  "minimum_updater_version": "1.8.5.6",
   "mandatory": false,
-  "download_url": "https://Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.0/Vidrick_AI_Transcriber_Setup_2.2.0.exe",
-  "sha256": "1E11C0A99E06D8070A1C96A6A58819CD48431E7C09BDA492BC7BFEA6E4B4704C",
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.1/Vidrick_AI_Transcriber_Setup_2.2.1.exe",
+  "sha256": "86CE038E8923169BC92B6966E387049ECD51EEF8258844128118CFEEC8185878",
   "notes": [
-    "Major diarization accuracy improvements.",
-    "New Global Sentence Decoder.",
-    "New Contextual Dialogue Boundary Optimizer.",
-    "Improved speaker identity anchoring.",
-    "Improved missing-turn recovery.",
-    "Improved conversation reconstruction.",
-    "Improved opening, callback, and closing speaker detection.",
-    "General stability improvements and bug fixes."
+    "Update system verification release.",
+    "Added a small visible UI message: Update test successful.",
+    "No transcription or diarization behavior was changed."
   ]
 }
