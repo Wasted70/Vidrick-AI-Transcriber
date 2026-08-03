@@ -1,14 +1,20 @@
 {
-  "version": "2.2.1",
-  "version_name": "2.2.1 Update Test",
+  "version": "2.2.6",
+  "version_name": "2.2.6 Clean Output Edition",
   "release_channel": "stable",
   "minimum_updater_version": "1.8.5.6",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.1/Vidrick_AI_Transcriber_Setup_2.2.1.exe",
-  "sha256": "86CE038E8923169BC92B6966E387049ECD51EEF8258844128118CFEEC8185878",
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.6/Vidrick_AI_Transcriber_Setup_2.2.6.exe",
+  "sha256": "19416A8DAA0BB94E1E6E37641C7502E933ACEF4B5FF42DC22BA107C4B390676A",
   "notes": [
-    "Update system verification release.",
-    "Added a small visible UI message: Update test successful.",
-    "No transcription or diarization behavior was changed."
+    "✨ Refined conversation reconstruction for more natural, human-readable transcripts.",
+    "🧠 Multi-stage AI pipeline featuring Whisper transcription, offline speaker diarization, contextual conversation polishing, and semantic conversation rebuilding.",
+    "🎙️ Improved speaker consistency across long conversations with advanced dialogue reconstruction.",
+    "💎 Cleaner transcript output with developer diagnostic files disabled by default.",
+    "⚡ Faster, smoother transcription workflow with automatic updates and enhanced reliability.",
+    "🔒 100% private processing — your audio never leaves your computer.",
+    "🖥️ Optimized GPU acceleration with intelligent CPU fallback.",
+    "📄 Export to TXT, DOCX, SRT, and VTT with polished formatting.",
+    "🚀 Continued improvements to transcription quality, stability, and overall user experience."
   ]
 }
