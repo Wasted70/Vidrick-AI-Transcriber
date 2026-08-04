@@ -1,10 +1,10 @@
 {
-  "version": "2.2.8",
-  "version_name": "2.2.8 Aurora V Update",
+  "version": "2.2.9",
+  "version_name": "2.2.9 Orbit V Update",
   "release_channel": "stable",
-  "minimum_updater_version": "2.2.7",
+  "minimum_updater_version": "2.2.8",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.8/Vidrick_AI_Transcriber_Setup_2.2.8.exe",
-  "sha256": "63D588744C2E78FE6235A7375AD517EF84B89D49295401571D6C9625452C3FB2",
-  "release_notes": "Introducing the Aurora V: a refined bright-glass V with a signature cyan sparkle across the splash screen, main header, welcome experience, About page, and branded visual updater. This permanent UI refinement is also the first full test of the new visual update flow introduced in version 2.2.7."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.9/Vidrick_AI_Transcriber_Setup_2.2.9.exe",
+  "sha256": "AA0039F8941682117D020B976ADE5876521AB90601ECD3E373A1C705E1301177",
+  "release_notes": "The Orbit V Update adds a secondary cyan light point to Vidrick's Aurora V identity across the splash screen, app header, welcome experience, About page, and branded update window. This permanent visual refinement provides a clean test of the full visual updater flow from version 2.2.8."
 }
