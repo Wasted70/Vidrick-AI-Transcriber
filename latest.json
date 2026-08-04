@@ -5,6 +5,6 @@
   "minimum_updater_version": "2.2.8",
   "mandatory": false,
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.9/Vidrick_AI_Transcriber_Setup_2.2.9.exe",
-  "sha256": "AA0039F8941682117D020B976ADE5876521AB90601ECD3E373A1C705E1301177",
+  "sha256": "1CB4496544A425B589DEAE286F09A2D0CB5A5009E59D116E8F7D0C869A91DCB1",
   "release_notes": "The Orbit V Update adds a secondary cyan light point to Vidrick's Aurora V identity across the splash screen, app header, welcome experience, About page, and branded update window. This permanent visual refinement provides a clean test of the full visual updater flow from version 2.2.8."
 }
