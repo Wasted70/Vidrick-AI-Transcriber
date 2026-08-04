@@ -1,20 +1,10 @@
 {
-  "version": "2.2.6",
-  "version_name": "2.2.6 Clean Output Edition",
+  "version": "2.2.7",
+  "version_name": "2.2.7 Professional Experience Update",
   "release_channel": "stable",
   "minimum_updater_version": "1.8.5.6",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.6/Vidrick_AI_Transcriber_Setup_2.2.6.exe",
-  "sha256": "19416A8DAA0BB94E1E6E37641C7502E933ACEF4B5FF42DC22BA107C4B390676A",
-  "notes": [
-    "✨ Refined conversation reconstruction for more natural, human-readable transcripts.",
-    "🧠 Multi-stage AI pipeline featuring Whisper transcription, offline speaker diarization, contextual conversation polishing, and semantic conversation rebuilding.",
-    "🎙️ Improved speaker consistency across long conversations with advanced dialogue reconstruction.",
-    "💎 Cleaner transcript output with developer diagnostic files disabled by default.",
-    "⚡ Faster, smoother transcription workflow with automatic updates and enhanced reliability.",
-    "🔒 100% private processing — your audio never leaves your computer.",
-    "🖥️ Optimized GPU acceleration with intelligent CPU fallback.",
-    "📄 Export to TXT, DOCX, SRT, and VTT with polished formatting.",
-    "🚀 Continued improvements to transcription quality, stability, and overall user experience."
-  ]
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.7/Vidrick_AI_Transcriber_Setup_2.2.7.exe",
+  "sha256": "8E45B2BAA6381682B29BC061B90049CA837BBED4C5CE4069EBD300C3CF7714E1",
+  "release_notes": "Vidrick now includes a dedicated visual update window that remains open while the main application closes, installs the update, and restarts. Version 2.2.7 also adds a first-launch welcome experience, improved update messaging, and synchronized version information throughout the app, installer, updater, and Windows file properties."
 }
