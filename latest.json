@@ -1,10 +1,10 @@
 {
-  "version": "2.2.7",
-  "version_name": "2.2.7 Professional Experience Update",
+  "version": "2.2.8",
+  "version_name": "2.2.8 Aurora V Update",
   "release_channel": "stable",
-  "minimum_updater_version": "1.8.5.6",
+  "minimum_updater_version": "2.2.7",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.7/Vidrick_AI_Transcriber_Setup_2.2.7.exe",
-  "sha256": "8E45B2BAA6381682B29BC061B90049CA837BBED4C5CE4069EBD300C3CF7714E1",
-  "release_notes": "Vidrick now includes a dedicated visual update window that remains open while the main application closes, installs the update, and restarts. Version 2.2.7 also adds a first-launch welcome experience, improved update messaging, and synchronized version information throughout the app, installer, updater, and Windows file properties."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v2.2.8/Vidrick_AI_Transcriber_Setup_2.2.8.exe",
+  "sha256": "63D588744C2E78FE6235A7375AD517EF84B89D49295401571D6C9625452C3FB2",
+  "release_notes": "Introducing the Aurora V: a refined bright-glass V with a signature cyan sparkle across the splash screen, main header, welcome experience, About page, and branded visual updater. This permanent UI refinement is also the first full test of the new visual update flow introduced in version 2.2.7."
 }
