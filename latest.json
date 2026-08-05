@@ -1,10 +1,10 @@
 {
-  "version": "3.2.4",
-  "version_name": "3.2.4 Visual Polish Test",
+  "version": "3.3.4",
+  "version_name": "3.3.4 Legal Polish",
   "release_channel": "stable",
-  "minimum_updater_version": "3.2.3",
+  "minimum_updater_version": "3.2.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v3.2.4/Vidrick_AI_Transcriber_Setup_3.2.4.exe",
-  "sha256": "37BDC4E503E97BB297D14941C924EA8E1F7378DC2E51ECADF1DA504764D92435",
-  "release_notes": "A small permanent visual refinement created to test the new Windows-style updater from version 3.2.3. It refreshes the privacy tagline, strengthens the completion card, and simplifies the completion actions."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v3.3.4/Vidrick_AI_Transcriber_Setup_3.3.4.exe",
+  "sha256": "F6DF5C58E418C3706F7978808CD4A8AF65D7A55301CD9C4F2C0055EA2C2F5E57",
+  "release_notes": "Version 3.3.4 completes Vidrick's legal and About-page polish, removes internal draft wording, standardizes legal-document dates, refines Credits, and preserves the working updater and transcription features."
 }
