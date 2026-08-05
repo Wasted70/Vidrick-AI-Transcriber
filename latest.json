@@ -1,10 +1,10 @@
 {
-  "version": "3.0.0",
-  "version_name": "3.0.0 Balanced V Update",
+  "version": "3.2.2",
+  "version_name": "3.2.2 Completion Layout Cleanup",
   "release_channel": "stable",
-  "minimum_updater_version": "2.2.9",
+  "minimum_updater_version": "3.2.1",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v3.0.0/Vidrick_AI_Transcriber_Setup_3.0.0.exe",
-  "sha256": "43831EA951CB9D4A39BAAD973EB7E0DF1A4F3A3945A3C698304788E4B2AEE8B3",
-  "release_notes": "Vidrick 3.0.0 introduces the Balanced V: a centered V with two matching cyan sparkles positioned symmetrically at the top-right and bottom-left. The updater window is also taller for improved visibility during installation."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v3.2.2/Vidrick_AI_Transcriber_Setup_3.2.2.exe",
+  "sha256": "29517B95AC9FBF9FADAA439B33396218633BC694EBC1FC904AC10037D1BA1B7B",
+  "release_notes": "Cleans up the completed-transcription layout by moving the completion card below the Start Transcription and Open Output Folder controls, preventing overlap and adding more spacing around the completion actions."
 }
