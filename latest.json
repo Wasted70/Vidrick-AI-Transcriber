@@ -1,10 +1,10 @@
 {
-  "version": "3.3.4",
-  "version_name": "3.3.4 Legal Polish",
+  "version": "4.0.4",
+  "version_name": "Offline Licensing Complete",
   "release_channel": "stable",
-  "minimum_updater_version": "3.2.4",
+  "minimum_updater_version": "4.0.3",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v3.3.4/Vidrick_AI_Transcriber_Setup_3.3.4.exe",
-  "sha256": "F6DF5C58E418C3706F7978808CD4A8AF65D7A55301CD9C4F2C0055EA2C2F5E57",
-  "release_notes": "Version 3.3.4 completes Vidrick's legal and About-page polish, removes internal draft wording, standardizes legal-document dates, refines Credits, and preserves the working updater and transcription features."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.0.4/Vidrick_AI_Transcriber_Setup_4.0.4.exe",
+  "sha256": "15EE90F61E22DDF90D3DE656B0642EB329EA76236DB7974F0F3E734EF26A1C73",
+  "release_notes": "Adds complete offline licensing with signed activation tokens, automatic offline startup, background license refresh, device activation and deactivation, and multiple licensing reliability improvements."
 }
