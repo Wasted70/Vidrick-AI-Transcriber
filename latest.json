@@ -1,10 +1,10 @@
 {
-  "version": "4.0.4",
-  "version_name": "Offline Licensing Complete",
-  "release_channel": "stable",
-  "minimum_updater_version": "4.0.3",
+  "version": "4.1.0",
+  "version_name": "4.1.0 Production Licensing UI",
+  "release_channel": "development",
+  "minimum_updater_version": "4.0.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.0.4/Vidrick_AI_Transcriber_Setup_4.0.4.exe",
-  "sha256": "15EE90F61E22DDF90D3DE656B0642EB329EA76236DB7974F0F3E734EF26A1C73",
-  "release_notes": "Adds complete offline licensing with signed activation tokens, automatic offline startup, background license refresh, device activation and deactivation, and multiple licensing reliability improvements."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.0/Vidrick_AI_Transcriber_Setup_4.1.0.exe",
+  "sha256": "D88CCA9D0DF1A72BD7BFF6BA6105893B7CD68C704A19710C0E2D7D3381D2B90D",
+  "release_notes": "Polishes Vidrick's licensing experience with production-ready activation wording, a cleaner account flow, signed-in email display, offline-access details, and removal of local testing language from the customer-facing interface."
 }
