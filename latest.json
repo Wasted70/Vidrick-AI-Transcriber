@@ -5,6 +5,6 @@
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.1/Vidrick_AI_Transcriber_Setup_4.1.1.exe",
-  "sha256": "2940CD16A0FDB03AFA9F82156A0A761BEC692DEFE3EA0DB9B4E60D87E792E225",
+  "sha256": "DD19B940F5CDD97A4C8976CAF58A74C7C81BDDD0C7DCABD19605488CAF336F58",
   "release_notes": "Adds paid-plan feature enforcement to Vidrick AI Transcriber. Personal subscriptions use CPU transcription, while Professional subscriptions unlock GPU/CUDA acceleration and Auto processor selection. This release also preserves the production licensing, offline access, device activation, and automatic update workflows."
 }
