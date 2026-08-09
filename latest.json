@@ -1,10 +1,10 @@
 {
-  "version": "4.1.0",
-  "version_name": "4.1.0 Production Licensing UI",
-  "release_channel": "development",
+  "version": "4.1.1",
+  "version_name": "4.1.1 Plan-Based Licensing",
+  "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.0/Vidrick_AI_Transcriber_Setup_4.1.0.exe",
-  "sha256": "D88CCA9D0DF1A72BD7BFF6BA6105893B7CD68C704A19710C0E2D7D3381D2B90D",
-  "release_notes": "Polishes Vidrick's licensing experience with production-ready activation wording, a cleaner account flow, signed-in email display, offline-access details, and removal of local testing language from the customer-facing interface."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.1/Vidrick_AI_Transcriber_Setup_4.1.1.exe",
+  "sha256": "2940CD16A0FDB03AFA9F82156A0A761BEC692DEFE3EA0DB9B4E60D87E792E225",
+  "release_notes": "Adds paid-plan feature enforcement to Vidrick AI Transcriber. Personal subscriptions use CPU transcription, while Professional subscriptions unlock GPU/CUDA acceleration and Auto processor selection. This release also preserves the production licensing, offline access, device activation, and automatic update workflows."
 }
