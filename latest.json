@@ -5,6 +5,6 @@
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.1/Vidrick_AI_Transcriber_Setup_4.1.1.exe",
-  "sha256": "7C76D4DD5CF261A8EA3CCC77D0A9678DD527FE29E8379FAC7B89470F5F64DCB3",
+  "sha256": "6DF0288137FA3B9B904F0CEB56311917F094AB966B739AFDB028ECD850FC91D3",
   "release_notes": "Refines Vidrick AI Transcriber 4.1.1 with a more reliable activation experience and a more responsive speaker-identification stage. Incorrect account credentials now show a clear retryable error instead of leaving the activation window stuck, and speaker diarization now runs in a separate process so the desktop interface remains responsive while speakers are identified. Existing Personal/Professional licensing, GPU/CUDA plan enforcement, decoder, reconstruction, offline licensing, and update behavior are preserved."
 }
