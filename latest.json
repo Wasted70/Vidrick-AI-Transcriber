@@ -1,10 +1,10 @@
 {
-  "version": "4.1.1",
-  "version_name": "4.1.1 Stability & UX Update",
+  "version": "4.1.2",
+  "version_name": "4.1.2 Legal Formatting Polish",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.1/Vidrick_AI_Transcriber_Setup_4.1.1.exe",
-  "sha256": "6DF0288137FA3B9B904F0CEB56311917F094AB966B739AFDB028ECD850FC91D3",
-  "release_notes": "Refines Vidrick AI Transcriber 4.1.1 with a more reliable activation experience and a more responsive speaker-identification stage. Incorrect account credentials now show a clear retryable error instead of leaving the activation window stuck, and speaker diarization now runs in a separate process so the desktop interface remains responsive while speakers are identified. Existing Personal/Professional licensing, GPU/CUDA plan enforcement, decoder, reconstruction, offline licensing, and update behavior are preserved."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.2/Vidrick_AI_Transcriber_Setup_4.1.2.exe",
+  "sha256": "8D1C8CE4E0E58741527A31E4003E24173FA074AA327BFA1A39589624F104DAB4",
+  "release_notes": "A small polish update that cleans up the presentation of legal documents throughout Vidrick AI Transcriber. Markdown heading markers are no longer displayed in legal text within the application or Windows installer. Application, installer, and Windows file version information have also been updated to 4.1.2. Transcription, speaker diarization, decoder, reconstruction, licensing, GPU/CUDA plan enforcement, offline operation, and update behavior remain unchanged."
 }
