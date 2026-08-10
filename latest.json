@@ -1,10 +1,10 @@
 {
   "version": "4.1.1",
-  "version_name": "4.1.1 Plan-Based Licensing",
+  "version_name": "4.1.1 Stability & UX Update",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
   "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.1/Vidrick_AI_Transcriber_Setup_4.1.1.exe",
-  "sha256": "DD19B940F5CDD97A4C8976CAF58A74C7C81BDDD0C7DCABD19605488CAF336F58",
-  "release_notes": "Adds paid-plan feature enforcement to Vidrick AI Transcriber. Personal subscriptions use CPU transcription, while Professional subscriptions unlock GPU/CUDA acceleration and Auto processor selection. This release also preserves the production licensing, offline access, device activation, and automatic update workflows."
+  "sha256": "7C76D4DD5CF261A8EA3CCC77D0A9678DD527FE29E8379FAC7B89470F5F64DCB3",
+  "release_notes": "Refines Vidrick AI Transcriber 4.1.1 with a more reliable activation experience and a more responsive speaker-identification stage. Incorrect account credentials now show a clear retryable error instead of leaving the activation window stuck, and speaker diarization now runs in a separate process so the desktop interface remains responsive while speakers are identified. Existing Personal/Professional licensing, GPU/CUDA plan enforcement, decoder, reconstruction, offline licensing, and update behavior are preserved."
 }
