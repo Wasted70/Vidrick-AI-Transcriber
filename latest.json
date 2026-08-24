@@ -1,10 +1,10 @@
 {
-  "version": "4.1.4",
-  "version_name": "4.1.4 Speaker Diarization Improvements",
+  "version": "4.1.5",
+  "version_name": "4.1.5 Expanded Language Support",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.4/Vidrick_AI_Transcriber_Setup_4.1.4.exe",
-  "sha256": "DD4CCC8C77C25D7482D17DE09FACB3A83E5AA4FCE1535D41D5CC5578DD3DA7FF",
-  "release_notes": "Vidrick AI Transcriber 4.1.4 improves offline speaker diarization and speaker-turn consistency while preserving the existing transcription engine and fully local workflow. The update improves short speaker handoffs, prevents the global speaker decoder from over-collapsing two-person conversations into a single speaker, adds within-segment speaker boundary detection, validates speaker boundaries using conversational context, improves continuity across fragmentary turns, and strengthens speaker identity stability when a speaker is established early in a conversation. Transcription, licensing, activation, portal integration, payments, updater behavior, and existing legal content remain unchanged."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.5/Vidrick_AI_Transcriber_Setup_4.1.5.exe",
+  "sha256": "31AEA9B2FAD7D3529DA187DF0DF29A5DF73F6FED1025D95876E29FD84157A9BB",
+  "release_notes": "Vidrick AI Transcriber 4.1.5 expands the language selector from 6 named languages to 57 named languages plus Auto-detect. Existing English, Spanish, French, German, Italian, and Portuguese options remain available, with added support for languages including Arabic, Chinese, Hindi, Japanese, Korean, Russian, Ukrainian, Vietnamese, and many more. Translate to English remains available. This update does not change the transcription engine, speaker diarization pipeline, conversation reconstruction, licensing, activation, portal integration, payments, updater behavior, exports, or existing legal content."
 }
