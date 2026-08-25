@@ -1,10 +1,10 @@
 {
-  "version": "4.1.5",
-  "version_name": "4.1.5 Expanded Language Support",
+  "version": "4.1.6",
+  "version_name": "4.1.6 Performance, Speaker Identification & Reliability",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.5/Vidrick_AI_Transcriber_Setup_4.1.5.exe",
-  "sha256": "31AEA9B2FAD7D3529DA187DF0DF29A5DF73F6FED1025D95876E29FD84157A9BB",
-  "release_notes": "Vidrick AI Transcriber 4.1.5 expands the language selector from 6 named languages to 57 named languages plus Auto-detect. Existing English, Spanish, French, German, Italian, and Portuguese options remain available, with added support for languages including Arabic, Chinese, Hindi, Japanese, Korean, Russian, Ukrainian, Vietnamese, and many more. Translate to English remains available. This update does not change the transcription engine, speaker diarization pipeline, conversation reconstruction, licensing, activation, portal integration, payments, updater behavior, exports, or existing legal content."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.6/Vidrick_AI_Transcriber_Setup_4.1.6.exe",
+  "sha256": "9B2CD8D03E504C357A4EFDBE2062F5DAAF1BB5365FCFD3F908645777035A59B5",
+  "release_notes": "Vidrick AI Transcriber 4.1.6 is a major performance and reliability update focused on real-world transcription workflows. This release significantly improves Automatic speaker identification with better speaker-count inference, clustering, dominant-speaker detection, and identity consolidation to reduce excessive speaker fragmentation while preserving legitimate additional speakers. CPU processing has also been optimized with hardware-aware thread allocation for transcription and diarization, allowing higher-core-count processors to make better use of available resources. Model downloads are now more resilient to temporary DNS, SSL, connection, and timeout failures through automatic retry and controlled backoff. Transcript and DOCX output reliability has also been improved with stronger destination-path handling, safer document creation, and recovery protection for completed transcription work. Vidrick continues to perform audio, video, speaker identification, and AI processing locally on the user's computer without uploading recordings to a cloud transcription service."
 }
