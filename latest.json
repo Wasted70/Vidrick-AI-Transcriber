@@ -1,10 +1,10 @@
 {
-  "version": "4.1.7",
-  "version_name": "4.1.7 Speaker Intelligence & Long-Recording Improvements",
-  "release_channel": "stable",
-  "minimum_updater_version": "4.0.4",
-  "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.7/Vidrick_AI_Transcriber_Setup_4.1.7.exe",
-  "sha256": "1717541CB57C38E9E9BDE62D488EDF1A3987B4B565ED55796ED0B301FCA4018F",
-  "release_notes": "Vidrick AI Transcriber 4.1.7 delivers major offline speaker-diarization improvements for long recordings, interviews, and meetings. Speaker identities are more stable, short handoffs and word boundaries are more accurate, overlap handling is improved, and conservative acoustic continuity reduces fragmentation without forcing a speaker count. Long-recording diarization also avoids redundant full passes for better performance. Internal RC diagnostic and performance-profile JSON files are no longer exported. Licensing, activation, portal integration, updater behavior, transcription workflow, and privacy model remain unchanged."
+    "version":  "4.1.8",
+    "version_name":  "Vidrick AI Transcriber 4.1.8 - Interface Language Update",
+    "release_channel":  "stable",
+    "minimum_updater_version":  "4.0.4",
+    "mandatory":  false,
+    "download_url":  "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.1.8/Vidrick_AI_Transcriber_Setup_4.1.8.exe",
+    "sha256":  "B235DCA8D7B91CA27DBC7E63F0FFB975F68F8EFEA6A53F971AF2DA9493772EE6",
+    "release_notes":  "Vidrick AI Transcriber 4.1.8 adds functional English, Spanish, and French interface localization. Changing Interface language now updates the application immediately, Save preserves the selection, and Cancel restores the previous language. Interface language remains separate from the spoken-language and translation settings. This release also includes a freshly rebuilt updater helper."
 }
