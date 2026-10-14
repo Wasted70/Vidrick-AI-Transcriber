@@ -1,10 +1,10 @@
 {
-  "version": "4.3.1",
-  "version_name": "4.3.1 Licensing hotfix",
+  "version": "4.3.2",
+  "version_name": "4.3.2 Licensing security update",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
-  "mandatory": false,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.1/Vidrick_AI_Transcriber_Setup_4.3.1.exe",
-  "sha256": "72CCB20322F534B8FE81A3C36312D3253DD66E1AD2FC8F9B6E6087B037961EDE",
-  "release_notes": "# Vidrick AI Transcriber 4.3.1 — Licensing hotfix\n\n- Rechecks the signed license entitlement before starting a transcription and\n  before each new file in a batch, including when Vidrick has been left open\n  past the entitlement's expiration.\n- Stops new transcription work when licensing has expired and cannot be\n  renewed. Work already in progress is allowed to finish.\n- Keeps completed exports available if licensing expires between files in a\n  batch, with a licensing message instead of a crash report.\n- Preserves valid offline access and allows an expired cached entitlement to\n  refresh after a subscription renewal when the licensing service is reachable.\n\nThis update does not change transcription models, speaker identification, or\nlocal audio processing. Install 4.3.1 to receive the desktop fix; an already\ninstalled 4.3 copy is not changed by the server-side safeguards alone."
+  "mandatory": true,
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.2/Vidrick_AI_Transcriber_Setup_4.3.2.exe",
+  "sha256": "304D5AEFD44E9968D3BCFE2F84E5ACEAB168B709A14B2A0C0C6321EAC93D47A4",
+  "release_notes": "# Vidrick AI Transcriber 4.3.2 — Licensing security update\n\n- Strengthens trial and subscription checks before new transcription work.\n- Verifies paid features against the signed license and enforces verified plan entitlements for each queued file, including refreshed plan changes.\n- Adds protected offline-license timing and fresh signed online validation.\n- Works with updated server protections for repeat trials, device limits, and payment synchronization.\n- Keeps completed transcripts and allows an already-running file to finish.\n\nConnect to the internet for the first license check after installing 4.3.2. Valid offline use remains available afterward; reconnect if saved license timing cannot be verified. This is a required Windows licensing update. It does not change transcription models, speaker identification, or local audio processing. Recordings stay on your computer."
 }
