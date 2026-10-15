@@ -1,10 +1,10 @@
 {
-  "version": "4.3.2",
-  "version_name": "4.3.2 Licensing security update",
+  "version": "4.3.3",
+  "version_name": "4.3.3 Reliable Updates",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": true,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.2/Vidrick_AI_Transcriber_Setup_4.3.2.exe",
-  "sha256": "304D5AEFD44E9968D3BCFE2F84E5ACEAB168B709A14B2A0C0C6321EAC93D47A4",
-  "release_notes": "# Vidrick AI Transcriber 4.3.2 — Licensing security update\n\n- Strengthens trial and subscription checks before new transcription work.\n- Verifies paid features against the signed license and enforces verified plan entitlements for each queued file, including refreshed plan changes.\n- Adds protected offline-license timing and fresh signed online validation.\n- Works with updated server protections for repeat trials, device limits, and payment synchronization.\n- Keeps completed transcripts and allows an already-running file to finish.\n\nConnect to the internet for the first license check after installing 4.3.2. Valid offline use remains available afterward; reconnect if saved license timing cannot be verified. This is a required Windows licensing update. It does not change transcription models, speaker identification, or local audio processing. Recordings stay on your computer."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.3/Vidrick_AI_Transcriber_Setup_4.3.3.exe",
+  "sha256": "2A6BB36DE78EF048DF9F6D70F84F2994D780F394CE803536ADCA0390826FF0DC",
+  "release_notes": "# Vidrick AI Transcriber 4.3.3 updater improvements\n\n- Check for and install updates directly from the activation screen, including when a license is expired or a required update blocks sign-in.\n- Clearer update availability and download status, with retryable failure messages.\n- Strengthened installer verification and safer update handoff.\n- All 4.3.2 trial, subscription, payment-sync, and transcription licensing protections remain in place. Updating does not grant transcription access.\n\nAlready blocked on 4.3.1? That older app cannot receive the new update screen remotely. Close Vidrick and run this signed installer once, then sign in if prompted. Subsequent releases can be reached from the new activation-screen updater without signing in first.\n\nThis release does not change transcription models, speaker identification, or local audio processing. Recordings stay on your computer. Windows may ask for administrator permission during installation."
 }
