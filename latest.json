@@ -1,10 +1,10 @@
 {
-  "version": "4.3.3",
-  "version_name": "4.3.3 Reliable Updates",
+  "version": "4.3.4",
+  "version_name": "4.3.4 HTTPS Certificate Security",
   "release_channel": "stable",
   "minimum_updater_version": "4.0.4",
   "mandatory": true,
-  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.3/Vidrick_AI_Transcriber_Setup_4.3.3.exe",
-  "sha256": "2A6BB36DE78EF048DF9F6D70F84F2994D780F394CE803536ADCA0390826FF0DC",
-  "release_notes": "# Vidrick AI Transcriber 4.3.3 updater improvements\n\n- Check for and install updates directly from the activation screen, including when a license is expired or a required update blocks sign-in.\n- Clearer update availability and download status, with retryable failure messages.\n- Strengthened installer verification and safer update handoff.\n- All 4.3.2 trial, subscription, payment-sync, and transcription licensing protections remain in place. Updating does not grant transcription access.\n\nAlready blocked on 4.3.1? That older app cannot receive the new update screen remotely. Close Vidrick and run this signed installer once, then sign in if prompted. Subsequent releases can be reached from the new activation-screen updater without signing in first.\n\nThis release does not change transcription models, speaker identification, or local audio processing. Recordings stay on your computer. Windows may ask for administrator permission during installation."
+  "download_url": "https://github.com/Wasted70/Vidrick-AI-Transcriber/releases/download/v4.3.4/Vidrick_AI_Transcriber_Setup_4.3.4.exe",
+  "sha256": "981D1FD4EAFF2297E1A666D35367E03C8B9554678070DD8BE0D70A069054CC02",
+  "release_notes": "# Vidrick AI Transcriber 4.3.4 — HTTPS certificate security update\n\n- Refreshes the bundled HTTPS certificate trust list following the eMudhra/emSign certificate-authority incident.\n- Uses the reviewed certificate bundle for licensing connections, update checks and downloads, and model downloads. Certificate and hostname verification remain required.\n- Keeps installer SHA-256 and trusted-publisher signature checks, trial and subscription protections, and activation-screen updates in place.\n- Uses the standard HTTPS model-download path so downloads share the same certificate protections.\n\nThis release does not change transcription models, speaker identification, or local audio processing. Recordings stay on your computer.\n\nInstall this signed Windows update to receive the new certificate protections; updating your browser alone does not update certificates bundled inside Vidrick. Windows may ask for administrator permission during installation.\n\nAlready blocked on 4.3.1? Close Vidrick and run the latest signed installer once. The activation-screen updater in newer releases lets you reach future updates without signing in first. Updating does not grant transcription access."
 }
